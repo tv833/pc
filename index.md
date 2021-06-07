@@ -4,7 +4,7 @@
 <a href="http://hoy.shirokuriwaki.com/" target="_blank">网址一</a> 　 
 <a href="http://heb.shirokuriwaki.com/" target="_blank">网址二</a> 　 
 <a href="http://hau.shirokuriwaki.com/b.html" target="_blank">网址三</a>
-<p>◆ 分 享 网 址 ：j.acci.ml（ 请 收 藏） </p>
+<p>◆ 分 享 网 址 ：https://j.acci.ml/  （ 请 收 藏） </p>
 
 <p>◎•  小 站：  
 <a href="http://hoy.shirokuriwaki.com/f.html" target="_blank">网址一</a> 　 
